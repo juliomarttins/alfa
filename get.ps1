@@ -2,7 +2,7 @@
 $ErrorActionPreference = "Stop"
 
 # Link corrigido para a pasta 'Versão Tudo-em-Um-KL' (com codificação para acentos)
-$TargetUrl = "https://alfa-info.vercel.app/MAS/Vers%C3%A3o%20Tudo-em-Um-KL/MAS_AIO.cmd"
+$TargetUrl = "https://alfa-info.vercel.app/MAS/v2/MAS_AIO.cmd"
 
 # Local temporário para salvar
 $File = "$env:TEMP\MAS_AIO.cmd"
